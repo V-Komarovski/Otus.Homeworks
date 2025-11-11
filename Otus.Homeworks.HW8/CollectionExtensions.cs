@@ -15,7 +15,7 @@ internal static class CollectionExtensions
 
         if (!collection.Any())
         {
-            throw new ArgumentException("Пустая коллекция", nameof(collection));     
+            throw new ArgumentException("Пустая коллекция", nameof(collection));
         }
 
         var maxValue = float.MinValue;

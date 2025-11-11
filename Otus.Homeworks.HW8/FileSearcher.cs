@@ -9,7 +9,7 @@ internal class FileSearcher
         ArgumentException.ThrowIfNullOrWhiteSpace(directoryPath);
         if (!Directory.Exists(directoryPath))
         {
-            throw new ArgumentException($"Каталог не найден по пути {directoryPath}");    
+            throw new ArgumentException($"Каталог не найден по пути {directoryPath}");
         }
 
         var filePaths = Directory.GetFiles(directoryPath);

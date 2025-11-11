@@ -33,7 +33,7 @@ internal static class FileReader
         var whitespaceCount = GetWhitespaceCount(content);
         return whitespaceCount;
     }
-    
+
     /// <summary>
     /// Возвращает количество пробелов в тексте
     /// </summary>

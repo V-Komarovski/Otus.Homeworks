@@ -1,0 +1,15 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.Homeworks", "Otus.Homeworks\Otus.Homeworks.csproj", "{7E46E57A-0C14-4A9F-985B-84EA2A4166EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E46E57A-0C14-4A9F-985B-84EA2A4166EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E46E57A-0C14-4A9F-985B-84EA2A4166EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E46E57A-0C14-4A9F-985B-84EA2A4166EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E46E57A-0C14-4A9F-985B-84EA2A4166EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

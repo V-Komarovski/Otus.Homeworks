@@ -1,3 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Otus.Homeworks.HW6;
+using Otus.Homeworks.HW6.GuessNumber.Generators;
+using Otus.Homeworks.HW6.GuessNumber.Validators;
 
-Console.WriteLine("Hello, World!");
+var generator = new GeneratorNumber();
+IValidator validator = new SimpleValidator(); // Но можно подложить и HintValidator
+var consoleGame = new ConsoleGame();
+consoleGame.Start(generator, validator);

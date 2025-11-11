@@ -3,6 +3,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.Homeworks.HW3", "Otus.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HW-3", "HW-3", "{8304608D-CB92-4E09-B6EF-D649065CA77C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HW-4", "HW-4", "{032704B7-9C31-4D91-979E-9178025C443D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.Homeworks.HW4", "Otus.Homeworks.HW4\Otus.Homeworks.HW4.csproj", "{97945D1B-3573-4DBA-8B09-841EE0252D29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,8 +17,13 @@ Global
 		{7E46E57A-0C14-4A9F-985B-84EA2A4166EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E46E57A-0C14-4A9F-985B-84EA2A4166EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E46E57A-0C14-4A9F-985B-84EA2A4166EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97945D1B-3573-4DBA-8B09-841EE0252D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97945D1B-3573-4DBA-8B09-841EE0252D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97945D1B-3573-4DBA-8B09-841EE0252D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97945D1B-3573-4DBA-8B09-841EE0252D29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7E46E57A-0C14-4A9F-985B-84EA2A4166EF} = {8304608D-CB92-4E09-B6EF-D649065CA77C}
+		{97945D1B-3573-4DBA-8B09-841EE0252D29} = {032704B7-9C31-4D91-979E-9178025C443D}
 	EndGlobalSection
 EndGlobal
